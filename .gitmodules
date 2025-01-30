@@ -1,15 +1,15 @@
 [submodule "libft"]
 	path = libft
-	url = ./libft
+    url = git@github.com:maxrmax/libft.git
 [submodule "get_next_line"]
 	path = get_next_line
-	url = ./get_next_line
+    url = git@github.com:maxrmax/get_next_line.git
 [submodule "ft_printf"]
 	path = ft_printf
-	url = ./ft_printf
+    url = git@github.com:maxrmax/ft_printf.git
 [submodule "push_swap"]
 	path = push_swap
-	url = ./push_swap
+    url = git@github.com:maxrmax/push_swap.git
 [submodule "minitalk"]
 	path = minitalk
-	url = ./minitalk
+    url = git@github.com:maxrmax/minitalk.git
