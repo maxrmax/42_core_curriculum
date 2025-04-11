@@ -16,3 +16,9 @@
 [submodule "so_long"]
 	path = so_long
 	url = git@github.com:maxrmax/so_long.git
+[submodule "fract-ol"]
+	path = fract-ol
+	url = git@github.com:maxrmax/fract-ol.git
+[submodule "philosophers"]
+	path = philosophers
+    url = git@github.com:maxrmax/philosophers.git
