@@ -1,0 +1,40 @@
+[submodule "libft"]
+	path = libft
+    url = git@github.com:maxrmax/libft.git
+	update = checkout
+    branch = master
+[submodule "get_next_line"]
+	path = get_next_line
+    url = git@github.com:maxrmax/get_next_line.git
+	update = checkout
+    branch = main
+[submodule "ft_printf"]
+	path = ft_printf
+    url = git@github.com:maxrmax/ft_printf.git
+	update = checkout
+    branch = main
+[submodule "push_swap"]
+	path = push_swap
+    url = git@github.com:maxrmax/push_swap.git
+	update = checkout
+    branch = master
+[submodule "minitalk"]
+	path = minitalk
+    url = git@github.com:maxrmax/minitalk.git
+	update = checkout
+    branch = main
+[submodule "fract-ol"]
+	path = fract-ol
+	url = git@github.com:maxrmax/fract-ol.git
+	update = checkout
+    branch = master
+[submodule "philosophers"]
+	path = philosophers
+    url = git@github.com:maxrmax/philosophers.git
+	update = checkout
+    branch = master
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:maxrmax/minishell.git
+	update = checkout
+    branch = master
