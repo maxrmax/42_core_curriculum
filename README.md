@@ -13,7 +13,7 @@
 | <a href="https://github.com/maxrmax/minishell" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/minishelle.png" alt="minishell" width="50"></a> | Making of a custom shell imagined after bash. Handling of ’, ", <, >, <<, >>, pipes, $, $?, a history, echo, cd, pwd, export, unset, env, exit, correct executable execution, and a bunch more. | 100 /<br>100 ✅ | 0 /<br> 25  |
 | <img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/netpracticem.png" alt="netpractice" width="50"> | Networking & Subnetting exercises. You would be surprised how much you can do with a subnet. | 100 /<br>100 ✅ |     |
 | <a href="https://github.com/maxrmax/miniRT" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/minirte.png" alt="miniRT" width="50"></a> | Writing a basic raytracer that can render 3D scenes based on parsed input files. | 100 /<br>100 ✅ | 0 /<br>25 |
-| <a href="https://github.com/maxrmax/cpp" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppm.png" alt="cpp" width="50"></a> | A collection of C++ exercises from 00 up to 09. | 90-100 /<br>100 ✅|  |
+| <a href="https://github.com/maxrmax/cpp" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppm.png" alt="cpp" width="50"></a> | A collection of C++ exercises from 00 up to 09. | 100 /<br>100 ✅|  |
 | <a href="https://github.com/maxrmax/Inception" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/inceptionn.png" alt="Inception" width="50"></a> |  | wip | wip |
 | <a href="https://github.com/maxrmax/ft_irc" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_ircn.png" alt="ft_irc" width="50"></a> |  | wip | wip |
 
