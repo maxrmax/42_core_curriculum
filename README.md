@@ -15,5 +15,5 @@
 | <a href="https://github.com/maxrmax/miniRT" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/minirte.png" alt="miniRT" width="50"></a> | Writing a basic raytracer that can render 3D scenes based on parsed input files. | 100 /<br>100 ✅ | 0 /<br>25 |
 | <a href="https://github.com/maxrmax/cpp" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppm.png" alt="cpp" width="50"></a> | A collection of C++ exercises from 00 up to 09. | 100 /<br>100 ✅|  |
 | <a href="https://github.com/maxrmax/Inception" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/inceptionn.png" alt="Inception" width="50"></a> |  | wip | wip |
-| <a href="https://github.com/maxrmax/ft_irc" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_ircn.png" alt="ft_irc" width="50"></a> |  | wip | wip |
+| <a href="https://github.com/maxrmax/ft_irc" target="_blank"><img src="https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_ircn.png" alt="ft_irc" width="50"></a> | Creating a small IRC server in accordance to the RFC 1459 in C++. | 100 /<br>100 ✅ | 25 /<br>25 💫 |
 

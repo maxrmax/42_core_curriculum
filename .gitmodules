@@ -48,3 +48,8 @@
 	url = git@github.com:maxrmax/cpp.git
 	update = checkout
 	branch = main
+[submodule "ft_irc"]
+	path = ft_irc
+	url = git@github.com:maxrmax/ft_irc.git
+	update = checkout
+	branch = main
